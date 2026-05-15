@@ -17,8 +17,8 @@ A responsive personal portfolio website built using HTML, CSS and JavaScript.
 
 ## Live Website
 
-
+https://portfo_website.netlify.app
 
 ## GitHub Repository
 
-Add your GitHub repo link here
+https://github.com/aarifa07/portfolio-website.git
