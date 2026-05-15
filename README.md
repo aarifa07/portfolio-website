@@ -17,7 +17,7 @@ A responsive personal portfolio website built using HTML, CSS and JavaScript.
 
 ## Live Website
 
-Add your Netlify link here
+
 
 ## GitHub Repository
 
